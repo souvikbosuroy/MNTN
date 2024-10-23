@@ -140,9 +140,9 @@ header {
 
 .navbar .container .nav-menu ul li a:hover {
     font-size: 20px;
-    color: #FBD784;
+    color: #0B1D26;
     padding-bottom: 5px;
-    border-bottom: 1px solid #FBD784;
+    border-bottom: 1px solid #0B1D26;
 }
 
 .navbar .container .user {
@@ -165,7 +165,7 @@ header {
 
 .navbar .container .user a:hover {
     transform: scale(1.1);
-    color: #FBD784;
+    color: #0B1D26;
 }
 
 .navbar .container .user a i {
