@@ -1,0 +1,1393 @@
+/* ================== @media-screen and max-width:1600px ================= */
+
+@media screen and (max-width: 1599px) {
+
+    .banner .container .row .heading {
+        margin-top: -20%;
+    }
+
+    .banner .container .row .heading .head {
+        width: 42%;
+    }
+
+    .banner .container .row .heading h1 {
+        font-size: 70px;
+    }
+
+    .banner .container .row .heading .scroll {
+        margin-top: 20px;
+    }
+
+    /* =============== level ================= */
+
+    .level .container .row .text-content {
+        padding: 40px 50px 40px 50px;
+    }
+
+    .level::before {
+        font-size: 180px;
+        top: 11%;
+        left: 5%;
+    }
+
+    .level .container .row .text-content .head {
+        width: 48%;
+    }
+
+    /* =============== gear ================= */
+
+    .gear .container .row .text-content {
+        padding: 40px 0px 40px 200px;
+    }
+
+    .gear::before {
+        font-size: 180px;
+        top: 10%;
+        left: 48%;
+    }
+
+    .gear .container .row .text-content .head {
+        width: 55%;
+        text-align: start;
+    }
+
+    .gear .container .row .text-content .head::after {
+        left: -40%;
+    }
+
+    /* =============== map-timing ================= */
+
+    .map-timing .container .row .text-content {
+        padding: 40px 50px 40px 50px;
+    }
+
+    .map-timing::before {
+        font-size: 180px;
+        top: 12.5%;
+        left: 5%;
+    }
+
+    .map-timing .container .row .text-content .head {
+        width: 100%;
+        text-align: center;
+    }
+
+    /* =============== footer-primary ================ */
+
+    .footer-primary .container .row .brand-about {
+        width: 40%;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog {
+        width: 45%;
+    }
+}
+
+/* =============== @media-screen and max-width:1400px ================ */
+
+@media screen and (max-width: 1399px) {
+
+    /* =============== navbar ================ */
+
+    .navbar .container .nav-menu {
+        width: 50%;
+    }
+
+    /* ================ banner ================= */
+
+    .banner {
+        min-height: 900px;
+    }
+
+    .banner .container .row .social-media {
+        margin-top: 0%;
+    }
+
+    .banner .container .row .heading {
+        margin-top: -5%;
+    }
+
+    .banner .container .row .heading .head {
+        width: 46%;
+    }
+
+    .banner .container .row .heading .head::after {
+        width: 55px;
+    }
+
+    .banner .container .row .progress-bar {
+        margin-top: 0%;
+    }
+
+    .banner .container .row .heading h1 {
+        font-size: 70px;
+        line-height: 1.2;
+    }
+
+    /* ============== level ================ */
+
+    .level {
+        height: 720px;
+    }
+
+    .level::before {
+        font-size: 120px;
+        top: 11%;
+        left: 8%;
+    }
+
+    .level .container .row .text-content {
+        padding-right: 120px;
+    }
+
+    .level .container .row .text-content .head {
+        width: 54%;
+    }
+
+    .level .container .row .text-content h2 {
+        font-size: 52px;
+    }
+
+    .level .container .row .image-content {
+        width: 40%;
+        overflow: hidden;
+    }
+
+    .level .container .row .image-content figure {
+        width: 90%;
+    }
+
+    /* ================ gear ================= */
+
+    .gear {
+        height: 720px;
+    }
+
+    .gear::before {
+        font-size: 110px;
+        top: 9.5%;
+        left: 51%;
+    }
+
+    .gear .container .row .text-content {
+        padding-right: 60px;
+    }
+
+    .gear .container .row .text-content .head {
+        width: 80%;
+        text-align: center;
+    }
+
+    .gear .container .row .text-content .head::after {
+        width: 40px;
+        left: -12%;
+    }
+
+    .gear .container .row .text-content h2 {
+        font-size: 52px;
+    }
+
+    .gear .container .row .image-content {
+        width: 40%;
+        overflow: hidden;
+    }
+
+    .gear .container .row .image-content figure {
+        width: 90%;
+    }
+
+    /* ================ map-timing ================= */
+
+    .map-timing {
+        height: 720px;
+    }
+
+    .map-timing::before {
+        font-size: 110px;
+        top: 12%;
+        left: 8%;
+    }
+
+    .map-timing .container .row .text-content {
+        padding-right: 120px;
+    }
+
+    .map-timing .container .row .text-content .head {
+        width: 100%;
+    }
+
+    .map-timing .container .row .text-content .head::after {
+        width: 40px;
+    }
+
+    .map-timing .container .row .text-content h2 {
+        font-size: 52px;
+    }
+
+    .map-timing .container .row .image-content {
+        width: 40%;
+        overflow: hidden;
+    }
+
+    .map-timing .container .row .image-content figure {
+        width: 90%;
+    }
+
+}
+
+/* =============== @media-screen and max-width:1200px ================ */
+
+@media screen and (max-width: 1199px) {
+
+    /* ============== banner ================ */
+
+    .banner {
+        height: 520px;
+    }
+
+    .banner .container .row {
+        height: 90%;
+    }
+
+    .banner .container .row .heading {
+        width: 70%;
+        margin-top: 0%;
+        align-items: center;
+    }
+
+    .banner .container .row .heading .head {
+        width: 80%;
+        text-align: center;
+    }
+
+    .banner .container .row .heading .head::after {
+        left: 20%;
+        width: 40px;
+    }
+
+    .banner .container .row .heading .scroll {
+        font-size: 26px;
+        filter: drop-shadow(0 0 2px Black);
+        letter-spacing: 1.5px;
+    }
+
+    .banner .container .row .heading h1 {
+        font-size: 60px;
+        text-align: center;
+        line-height: 1.5;
+    }
+
+    /* ================== level ==================== */
+
+    .level {
+        height: 720px;
+        padding: 50px 30px;
+        background: linear-gradient(rgba(11, 29, 38, 0)5%, rgb(11, 29, 38) 20%);
+    }
+
+    .level::before {
+        top: 10.5%;
+        left: 8.5%;
+    }
+
+    .level .container .row {
+        justify-content: space-between;
+    }
+
+    .level .container .row .text-content {
+        padding: 40px;
+    }
+
+    .level .container .row .text-content .head::after {
+        width: 50px;
+    }
+
+    .level .container .row .text-content h2 {
+        width: 80%;
+        font-size: 40px;
+        letter-spacing: 1px;
+    }
+
+    .level .container .row .image-content {
+        height: 90%;
+    }
+
+    /* ================== gear ==================== */
+
+    .gear {
+        height: 720px;
+        padding: 50px 40px;
+        padding-right: 0px !important;
+        overflow-x: hidden;
+    }
+
+    .gear::before {
+        top: 14%;
+        left: 47.5%;
+    }
+
+    .gear .container .row {
+        justify-content: space-between;
+    }
+
+    .gear .container .row .text-content {
+        padding: 40px 20px 40px 60px;
+        align-items: start;
+    }
+
+    .gear .container .row .text-content .head {
+        width: 85%;
+        text-align: center;
+    }
+
+    .gear .container .row .text-content .head::after {
+        width: 50px;
+        left: 0%;
+    }
+
+    .gear .container .row .text-content h2 {
+        width: 80%;
+        font-size: 40px;
+        letter-spacing: 1px;
+        text-align: start;
+    }
+
+    .gear .container .row .image-content {
+        height: 90%;
+    }
+
+    /* ================== map-timing ==================== */
+
+    .map-timing {
+        height: 720px;
+        padding: 50px 30px;
+    }
+
+    .map-timing::before {
+        top: 14%;
+        left: 8.5%;
+    }
+
+    .map-timing .container .row .text-content {
+        padding: 40px;
+    }
+
+    .map-timing .container .row .text-content .head {
+        width: 110%;
+    }
+
+    .map-timing .container .row .text-content .head::after {
+        width: 50px;
+    }
+
+    .map-timing .container .row .text-content h2 {
+        font-size: 40px;
+        letter-spacing: 1px;
+    }
+
+    .map-timing .container .row .image-content {
+        height: 90%;
+    }
+
+    /* ================ footer ================= */
+
+    .footer-primary {
+        padding: 50px 65px;
+    }
+
+    .footer-primary .container .row .footer-menu {
+        width: 45%;
+    }
+
+    .footer-primary .container {
+        padding: 0;
+    }
+
+    .footer-primary .container .row .brand-about {
+        width: 50%;
+    }
+
+    .footer-primary .container .row .brand-about .brand-desc p {
+        width: 100%;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog {
+        width: 53%;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more {
+        width: 40%;
+    }
+}
+
+/* =============== @media-screen and max-width:1024px ================ */
+
+@media screen and (max-width: 1024px) {
+
+    /* ============== level ================ */
+
+    .level::before {
+        top: 9%;
+    }
+
+    .level .container .row .text-content {
+        justify-content: start;
+    }
+
+    .level .container .row .image-content {
+        height: 80%;
+    }
+
+    /* ============== gear ================ */
+
+    .gear::before {
+        top: 10%;
+    }
+
+    .gear .container .row .text-content {
+        justify-content: start;
+    }
+
+    .gear .container .row .image-content {
+        height: 80%;
+    }
+
+    /* ============== map-timing ================ */
+
+    .map-timing .container .row .text-content {
+        justify-content: start;
+    }
+
+    .map-timing .container .row .image-content {
+        height: 80%;
+    }
+
+    .map-timing::before {
+        top: 10%;
+    }
+
+    /* ================= footer ================== */
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog .menu-head {
+        font-size: 22px;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more .menu-head {
+        font-size: 22px;
+    }
+}
+
+/* =============== @media-screen and max-width:992px ================ */
+
+@media screen and (max-width: 991px) {
+
+    /* =============== navbar =============== */
+
+    .navbar {
+        padding: 30px;
+    }
+
+    .navbar .container {
+        position: relative;
+        padding: 0;
+        max-width: 100%;
+    }
+
+    .navbar .container .logo {
+        width: 20%;
+        overflow: hidden;
+    }
+
+    .navbar .container .logo img {
+        width: 100%;
+    }
+
+    .navbar .container .nav-menu {
+        position: absolute;
+        z-index: 100;
+        width: 100%;
+        height: auto;
+        top: 120px;
+        left: 0;
+        background-color: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(3px);
+        display: none;
+    }
+
+    .navbar .container .nav-menu ul {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: end;
+    }
+
+    .navbar .container .nav-menu ul li {
+        width: 100%;
+        text-align: end;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border-bottom: 1px solid black;
+    }
+
+    .navbar .container .nav-menu ul li a {
+        width: 100%;
+        font-size: 24px;
+        color: #0B1D26;
+        font-weight: 500;
+        letter-spacing: 1px;
+        padding: 15px 20px;
+    }
+
+    .navbar .container .user {
+        width: 30%;
+    }
+
+    .navbar .container .user a {
+        font-size: 24px;
+        display: none;
+    }
+
+    .navbar .container .menu-icon {
+        display: inline-block;
+        padding-left: 20px;
+        font-size: 30px;
+    }
+
+    /* =============== banner =============== */
+
+    .banner {
+        height: 720px;
+        background-size: 120%;
+    }
+
+    .banner .container .row .heading {
+        margin-top: 20%;
+    }
+
+    .banner .container .row .heading .head::after {
+        left: 10%;
+        width: 30px;
+    }
+
+    .banner .container .row .heading h1 {
+        width: 80%;
+        font-size: 50px;
+    }
+
+    .banner .container .row .heading .scroll {
+        filter: none;
+        margin-top: 40%;
+    }
+
+    /* ================= level ================== */
+
+    .level {
+        height: 1100px;
+        background: linear-gradient(rgba(11, 29, 38, 0)0%, rgb(11, 29, 38) 2%);
+        overflow-y: visible;
+    }
+
+    .level::before {
+        color: rgba(255, 255, 255, 0.3);
+        left: 15%;
+        top: 6.5%;
+    }
+
+    .level .container .row {
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+
+    .level .container .row .text-content {
+        width: 100%;
+        height: 50%;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .level .container .row .text-content .head {
+        width: 44%;
+    }
+
+    .level .container .row .text-content h2 {
+        width: 100%;
+    }
+
+    .level .container .row .image-content {
+        width: 100%;
+        height: 45%;
+        /* overflow: scroll; */
+        align-items: end;
+    }
+
+    .level .container .row .image-content figure {
+        height: 80%;
+        align-items: end;
+    }
+
+    .level .container .row .image-content figure img {
+        height: unset;
+        width: 100%;
+    }
+
+    /* ================= gear ================== */
+
+    .gear {
+        height: 1100px;
+        overflow-y: visible;
+    }
+
+    .gear::before {
+        color: rgba(255, 255, 255, 0.6);
+        left: 72%;
+        top: 35%;
+    }
+
+    .gear .container .row {
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+
+    .gear .container .row .text-content {
+        width: 100%;
+        height: 50%;
+        padding: 20px;
+        justify-content: center;
+    }
+
+    .gear .container .row .text-content .head {
+        width: 64%;
+    }
+
+    .gear .container .row .text-content h2 {
+        width: 100%;
+    }
+
+    .gear .container .row .image-content {
+        width: 100%;
+        height: 45%;
+        overflow: hidden;
+        align-items: end;
+    }
+
+    .gear .container .row .image-content figure {
+        height: 80%;
+        align-items: end;
+    }
+
+    .gear .container .row .image-content figure img {
+        height: unset;
+        width: 100%;
+    }
+
+    /* ================= map-timing ================== */
+
+    .map-timing {
+        height: 1100px;
+        overflow-y: visible;
+    }
+
+    .map-timing::before {
+        color: rgba(255, 255, 255, 0.6);
+        left: 69%;
+        top: 35%;
+    }
+
+    .map-timing .container .row {
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+
+    .map-timing .container .row .text-content {
+        width: 100%;
+        height: 50%;
+        padding: 20px;
+        justify-content: center;
+    }
+
+    .map-timing .container .row .text-content .head {
+        width: 84%;
+    }
+
+    .map-timing .container .row .text-content h2 {
+        width: 100%;
+    }
+
+    .map-timing .container .row .image-content {
+        width: 100%;
+        height: 45%;
+        overflow: hidden;
+        align-items: end;
+    }
+
+    .map-timing .container .row .image-content figure {
+        height: 80%;
+        align-items: end;
+    }
+
+    .map-timing .container .row .image-content figure img {
+        height: unset;
+        width: 100%;
+    }
+}
+
+/* =============== @media-screen and max-width:768px ================ */
+
+@media screen and (max-width: 767px) {
+
+    /* ================ header ================= */
+
+    header {
+        position: relative;
+    }
+
+    /* =============== navbar ================= */
+
+    .navbar {
+        height: 120px;
+        position: fixed;
+        z-index: 100;
+        background-color: #ffffff75;
+        backdrop-filter: blur(20px);
+    }
+
+    /* =============== banner ================= */
+
+    .banner {
+        position: relative;
+        min-height: 1100px;
+        background-size: 180%;
+        background-position: end center;
+    }
+
+    .banner .container .row .social-media {
+        display: none;
+    }
+
+    .banner .container .row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .banner .container .row .progress-bar {
+        position: absolute;
+        top: 50%;
+        flex-direction: row;
+        display: none;
+    }
+
+    #mountain {
+        top: 32%;
+        overflow-x: hidden;
+    }
+
+    #mountain figure img {
+        width: 200%;
+    }
+
+    #man {
+        top: 60%;
+        overflow-x: hidden;
+        left: 0;
+    }
+
+    #man figure img {
+        width: 200%;
+    }
+
+    /* ================ level ================= */
+
+    .level {
+        height: 720px;
+        background: linear-gradient(rgba(11, 29, 38, 0)0%, rgb(11, 29, 38) 5%);
+    }
+
+    .level .container .row .image-content {
+        height: 42%;
+    }
+
+    .level .container .row .text-content {
+        height: 55%;
+    }
+
+    .level .container .row .text-content .head {
+        font-size: 14px;
+        width: 50%;
+    }
+
+    .level .container .row .text-content .head::after {
+        width: 35px;
+    }
+
+    .level .container .row .text-content h2 {
+        font-size: 26px;
+    }
+
+    .level .container .row .text-content p {
+        font-size: 14px;
+        padding: 15px 0;
+    }
+
+    /* ================ gear ================= */
+
+    .gear {
+        height: 720px;
+    }
+
+    .gear::before {
+        top: 30%;
+        left: 70%;
+        font-size: 80px;
+    }
+
+    .gear .container .row .image-content {
+        height: 42%;
+    }
+
+    .gear .container .row .text-content {
+        height: 55%;
+    }
+
+    .gear .container .row .text-content .head {
+        font-size: 14px;
+        width: 75%;
+    }
+
+    .gear .container .row .text-content .head::after {
+        width: 35px;
+    }
+
+    .gear .container .row .text-content h2 {
+        font-size: 26px;
+    }
+
+    .gear .container .row .text-content p {
+        font-size: 14px;
+        padding: 15px 0;
+    }
+
+    /* ================ map-timing ================= */
+
+    .map-timing {
+        height: 720px;
+    }
+
+    .map-timing::before {
+        top: 30%;
+        left: 67%;
+        font-size: 80px;
+    }
+
+    .map-timing .container .row .image-content {
+        height: 42%;
+    }
+
+    .map-timing .container .row .text-content {
+        height: 55%;
+    }
+
+    .map-timing .container .row .text-content .head {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .map-timing .container .row .text-content .head::after {
+        width: 35px;
+    }
+
+    .map-timing .container .row .text-content h2 {
+        font-size: 26px;
+    }
+
+    .map-timing .container .row .text-content p {
+        font-size: 14px;
+        padding: 15px 0;
+    }
+
+    /* =============== footer-primary ================ */
+
+    .footer-primary {
+        height: 550px;
+    }
+
+    .footer-primary .container .row {
+        flex-direction: column-reverse;
+    }
+
+    .footer-primary .container .row .footer-menu {
+        width: 100%;
+        height: 50%;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog {
+        align-items: center;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog ul {
+        align-items: center;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more {
+        align-items: center;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more ul {
+        align-items: center;
+    }
+
+    .footer-primary .container .row .brand-about {
+        width: 100%;
+        height: 35%;
+        text-align: center;
+    }
+
+    .footer-primary .container .row .brand-about .brand-desc img {
+        padding-bottom: 15px;
+    }
+
+    .footer-primary .container .row .brand-about .brand-desc {
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+/* =============== @media-screen and max-width:576px ================ */
+
+@media screen and (max-width: 575px) {
+
+    /* =============== navbar ================== */
+
+    .navbar {
+        height: 100px;
+    }
+
+    .navbar .container .nav-menu {
+        top: 80px;
+    }
+
+    /* ================ banner ================= */
+
+    .banner {
+        min-height: 1000px;
+    }
+
+    .banner .container .row {
+        width: 100%;
+    }
+
+    .banner .container .row .heading {
+        margin-top: 60%;
+        padding: 0;
+        width: 80%;
+    }
+
+    .banner .container .row .heading .head::after {
+        top: -100%;
+        left: 45%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: load-line 2s alternate infinite;
+    }
+
+    @keyframes load-line {
+        0% {
+            width: 0px;
+            animation-direction: reverse;
+        }
+
+        100% {
+            width: 40px;
+            animation-direction: normal;
+        }
+    }
+
+    .banner .container .row .heading h1 {
+        width: 100%;
+        font-size: 48px;
+    }
+
+    #mountain {
+        filter: brightness(0.7);
+    }
+
+    #man {
+        filter: brightness(0.8);
+    }
+
+    /* ================= level ================== */
+
+    .level {
+        height: 820px;
+        padding: 50px 0;
+    }
+
+    .level::before {
+        font-size: 80px;
+        top: 10%;
+    }
+
+    .level .container .row .image-content {
+        height: 40%;
+    }
+
+    .level .container .row .text-content {
+        height: 50%;
+    }
+
+    .level .container .row .text-content .head::after {
+        width: 25px;
+        animation: load-line 1.5s alternate infinite;
+    }
+
+    @keyframes load-line {
+        0% {
+            width: 0px;
+            animation-direction: reverse;
+        }
+
+        100% {
+            width: 25px;
+            animation-direction: normal;
+        }
+    }
+
+    /* ================= gear ================== */
+
+    .gear {
+        height: 820px;
+        padding: 50px 0;
+    }
+
+    .gear::before {
+        font-size: 80px;
+        top: 10%;
+    }
+
+    .gear .container .row .image-content {
+        height: 40%;
+    }
+
+    .gear .container .row .text-content {
+        height: 50%;
+    }
+    
+    .gear .container .row .text-content .head::after {
+        width: 25px;
+        animation: load-line 1.5s alternate infinite;
+    }
+
+    @keyframes load-line {
+        0% {
+            width: 0px;
+            animation-direction: reverse;
+        }
+
+        100% {
+            width: 25px;
+            animation-direction: normal;
+        }
+    }
+
+    /* ================= map-timing ================== */
+
+    .map-timing {
+        height: 820px;
+        padding: 50px 0;
+    }
+
+    .map-timing::before {
+        font-size: 80px;
+        top: 10%;
+    }
+
+    .map-timing .container .row .image-content {
+        height: 40%;
+    }
+
+    .map-timing .container .row .text-content {
+        height: 50%;
+    }
+    
+    .map-timing .container .row .text-content .head::after {
+        width: 25px;
+        animation: load-line 1.5s alternate infinite;
+    }
+
+    @keyframes load-line {
+        0% {
+            width: 0px;
+            animation-direction: reverse;
+        }
+
+        100% {
+            width: 25px;
+            animation-direction: normal;
+        }
+    }
+
+    /* ================ footer =============== */
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog .menu-head {
+        font-size: 20px;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more .menu-head {
+        font-size: 20px;
+    }
+
+}
+
+/* =============== @media-screen and max-width:480px ================ */
+
+@media screen and (max-width: 480px) {
+
+    /* =============== common css =============== */
+
+    .container {
+        padding: 0 15px;
+    }
+
+    /* =================== navbar =================== */
+
+    .navbar {
+        height: 80px;
+    }
+    
+    .navbar .container .logo {
+        width:25%;
+    }
+
+    .navbar .container .menu-icon {
+        font-size: 20px;
+    }
+
+    .navbar .container .nav-menu {
+        top: 60px;
+    }
+
+    .navbar .container .nav-menu ul li  {
+        padding: 10px;
+    }
+
+    .navbar .container .nav-menu ul li a {
+        font-size: 16px;
+    }
+
+    /* =============== banner =============== */
+
+    .banner {
+        background-size: 400%;
+        min-height: 700px;
+    }
+
+    #man {
+        top: 60%;
+        left: 0%;
+    }
+    
+    #man figure {
+        display: flex;
+        justify-content: start;
+        align-items: start;
+    }
+    
+    #man figure img{
+        width: 200%;
+    }
+    
+    .banner .container .row .heading .head {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .banner .container .row .heading h1 {
+        font-size: 34px;
+    }
+
+    .banner .container .row .heading .scroll {
+        margin-top: 50%;
+        font-size: 16px;
+    }
+
+    /* ================= level =================== */
+
+    .level {
+        height: 800px;
+    }
+
+    .level::before {
+        top: 7%;
+        left: 13%;
+        font-size: 50px;
+    }
+
+    .level .container .row .image-content {
+        height: 35%;
+    }
+
+    .level .container .row .text-content {
+        height: 65%;
+    }
+    
+    .level .container .row .text-content .head {
+        width: 70%;
+        text-align: start;
+    }
+
+    .level .container .row .text-content .head::after {
+        top: 0;
+    }
+
+    .level .container .row .text-content h2 {
+        font-size: 20px;
+    }
+
+    .level .container .row .text-content p {
+        font-size: 14px;
+        font-weight: 300;
+    }
+    
+    /* ================= gear =================== */
+
+    .gear {
+        height: 800px;
+    }
+
+    .gear::before {
+        top: 7%;
+        left: 13%;
+        font-size: 50px;
+    }
+
+    .gear .container .row .image-content {
+        height: 35%;
+    }
+
+    .gear .container .row .text-content {
+        height: 65%;
+    }
+    
+    .gear .container .row .text-content .head {
+        width: 100%;
+        text-align: start;
+    }
+
+    .gear .container .row .text-content .head::after {
+        top: 0;
+    }
+
+    .gear .container .row .text-content h2 {
+        font-size: 20px;
+    }
+
+    .gear .container .row .text-content p {
+        font-size: 14px;
+        font-weight: 300;
+    }
+    
+    /* ================= map-timing =================== */
+
+    .map-timing {
+        height: 800px;
+    }
+
+    .map-timing::before {
+        top: 7%;
+        left: 13%;
+        font-size: 50px;
+    }
+
+    .map-timing .container .row .image-content {
+        height: 35%;
+    }
+
+    .map-timing .container .row .text-content {
+        height: 65%;
+    }
+    
+    .map-timing .container .row .text-content .head {
+        width: 100%;
+        text-align: start;
+    }
+
+    .map-timing .container .row .text-content .head::after {
+        top: 0;
+    }
+
+    .map-timing .container .row .text-content h2 {
+        font-size: 20px;
+    }
+
+    .map-timing .container .row .text-content p {
+        font-size: 14px;
+        font-weight: 300;
+    }
+    
+    /* ================ footer ================== */
+
+    .footer-primary {
+        padding: 20px 5px;
+    }    
+    
+    .footer-primary .container {
+        padding: 0;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog {
+        width: 56%;
+        align-items: start;
+        padding-left: 15px;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog ul {
+        align-items: start;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog ul li a {
+        font-size: 16px;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-blog .menu-head {
+        font-size: 18px;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more {
+        width: 46%;
+        align-items: start;
+        padding-left: 10px;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more ul {
+        align-items: start;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more ul li a {
+        font-size: 16px;
+    }
+
+    .footer-primary .container .row .footer-menu .footer-menu-more .menu-head {
+        font-size: 18px;
+    }
+    
+    .footer-primary .container .row .brand-about .brand-desc {
+        padding: 0 10px;
+    }
+
+    .footer-primary .container .row .brand-about .brand-desc p {
+        font-size: 14px;
+    }
+
+    .footer-primary .container .row .brand-about .copyright p {
+        font-size: 14px;
+    }
+    
+    .footer-primary .container .row .brand-about .brand-desc img {
+        width: 70%;
+    }
+}
